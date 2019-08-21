@@ -119,4 +119,3 @@
 
 <b>广告:小马m6或者oc定制扇准备售卖,详情请加860817315,QQ群</b>
 
-<bgsound src=”https://github.com/wind-come/wind-come.github.io/blob/master/music/Jenny%20Nicholson%20Griffinilla%20-%20Gypsy%20Bard.mp3” loop=-1>
