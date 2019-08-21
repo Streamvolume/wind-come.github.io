@@ -2,13 +2,29 @@
 <p>这里是小马的图片站,网页初期做的不好,正在完善.</p>
 <p>目录</p>
 <p>1.小马壁纸</p>
-<a herf="#小马壁纸">跳转到小马壁纸</a>
+<a href="小马壁纸">
+
+<input type=button value="跳转" >
+
+</a>
 <p>2.马国女孩</p>
-<a herf="#马国女孩">跳转到马国女孩</a>
+<a href="马国女孩">
+
+<input type=button value="跳转" >
+
+</a>
 <p>3.可爱小马</p>
-<a herf="#可爱小马">跳转到可爱小马</a>
+<a href="可爱小马">
+
+<input type=button value="跳转" >
+
+</a>
 <p>ps:网页底部有小马周边信息,可以关注一下</p>
-<a herf="#广告">跳转到页面底部</a>
+<a href="广告">
+
+<input type=button value="跳转" >
+
+</a>
 
 <h2 id="小马壁纸">小马壁纸</h2>
 
