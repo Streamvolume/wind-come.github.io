@@ -5,7 +5,6 @@
 <p>2.马国女孩</p>
 <p>3.可爱小马</p>
 <p>ps:网页底部有小马周边信息,可以关注一下</p>
-<input type=button value="跳转" onclick="window.open('广告')">
 
 <h2 id="小马壁纸">小马壁纸</h2>
 
