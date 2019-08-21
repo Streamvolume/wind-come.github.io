@@ -5,7 +5,7 @@
 <p>2.马国女孩</p>
 <p>3.可爱小马</p>
 <p>每块分区都会隔开</p>
-<p>ps:页面底部有小马周边信息,可以关注一下</p>
+<html><body><p><font size="10" color="red">ps:网页底部有小马周边信息,可以关注一下</font></p></body></html>
 
 ![image](https://github.com/wind-come/wind-come.github.io/blob/master/image/timg.jpg?raw=true)
 
