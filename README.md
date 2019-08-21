@@ -1,17 +1,5 @@
 # 欢迎光临!
 <p>这里是小马的图片站,网页初期做的不好,正在完善.</p>
-<h3>会员区</h3>
-		<p>注册会员</p>
-		<div class="squre">
-			用户名：
-		    <input type="text" name="textfield" id="textfield" /><br>
-		    密&nbsp;码： 
-		    <input type="text" name="textfield2" id="textfield2" /><br>
-		    <input type="submit" name="button2" id="button2" value="提交" />
-		    <input type="reset" name="button" id="button" value="重置" />
-		</div>
-	</body>
-</html>
 <p>目录</p>
 <p>1.小马壁纸</p>
 <p>2.马国女孩</p>
