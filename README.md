@@ -1,12 +1,12 @@
 # 欢迎光临!
 <p>这里是小马的图片站,网页初期做的不好,正在完善.</p>
 <p>目录</p>
-<p>1.小马壁纸</p>
-<p>2.马国女孩</p>
-<p>3.可爱小马</p>
-<p>ps:网页底部有小马周边信息,可以关注一下</p>
+<p>1.小马壁纸</p><a href="#bizhi">跳转</a>
+<p>2.马国女孩</p><a href="#maguo">跳转</a>
+<p>3.可爱小马</p><a href="#xiaoma">跳转</a>
+<p>ps:网页底部有小马周边信息,可以关注一下</p><a href="#guanggao">跳转</a>
 
-<h2 id="小马壁纸">小马壁纸</h2>
+<a name="bizhi">小马壁纸</a>
 
 ![image](https://github.com/wind-come/wind-come.github.io/blob/master/image/timg.jpg?raw=true)
 
@@ -72,7 +72,7 @@
 
 ![blu](https://github.com/wind-come/wind-come.github.io/blob/master/image/badluna.jpg?raw=ture)
 
-<h2 id="马国女孩">马国女孩</h2>
+<a name="maguo">马国女孩</a>
 
 ![ssss](https://github.com/wind-come/wind-come.github.io/blob/master/image/ssss.jpg?raw=ture)
 
@@ -90,12 +90,12 @@
 
 ![cgrd](https://github.com/wind-come/wind-come.github.io/blob/master/image/ccrd.jpg?raw=ture)
 
-<h2 id="可爱小马">可爱小马</h2>
+<a name="xiaoma">可爱小马</a>
 
 ![cmusic](https://github.com/wind-come/wind-come.github.io/blob/master/image/cmusic.jpg?raw=ture)
 
 ![cts](https://github.com/wind-come/wind-come.github.io/blob/master/image/cts.jpg?raw=ture)
 
-<h2 id="广告">广告</h2>
+<a name="guanggao">广告</a>
 
 <p>广告:小马m6或者oc定制扇准备售卖,详情请加860817315,qq</p>
