@@ -14,10 +14,7 @@
 <p>3.可爱小马</p>
 <a href="#xiaoma">跳转</a>
 
-<p>4.鬼畜区</p>
-<a href="#guichu">跳转</a>
-
-<p>5.精品区</p>
+<p>4.精品区</p>
 <a href="#jingpin">跳转</a>
 
 <p>ps:网页底部有周边信息和支持者列表</p>
@@ -25,12 +22,10 @@
 
 <a href="#liebiao">支持者列表</a>
 
-<b>--------------------------分割线-----------------------------------</b>
-
 <b>公告栏</b>
 
-<b>通告:本站已经把小马壁纸增多(67张)并增加分辨率,马国女孩与可爱小马已经增加,新增鬼畜区,</b>
-<b>精品区正式开启(89张)</b>
+<b>通告:本站已经把小马壁纸增多并增加分辨率,马国女孩与可爱小马已经增加</b>
+<b>精品区正式开启</b>
 <p>公告:旧的小马同城会解散了，新的同城会:866756418QQ群，欢迎老群员和新人(自发)</p>
 <p>江苏同城会群招人689158143</p>
 
@@ -299,20 +294,6 @@
 ![29](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/c.jpeg?raw=ture)
 
 ![30](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/e.jpeg?raw=ture)
-
-<b>--------------------------------分割线----------------------------------</b>
-
-<p>审核过后的图,欢迎投稿!</p>
-<b><a name="guichu">鬼畜区</a></b>
-<a href="#mulu">回目录</a>
-
-![11](https://github.com/wind-come/wind-come.github.io/blob/master/image/pas/11.jpg?raw=ture)
-
-![22](https://github.com/wind-come/wind-come.github.io/blob/master/image/pas/22.jpg?raw=ture)
-
-![33](https://github.com/wind-come/wind-come.github.io/blob/master/image/pas/33.jpg?raw=ture)
-
-![44](https://github.com/wind-come/wind-come.github.io/blob/master/image/pas/44.jpg?raw=ture)
 
 <b>--------------------------------分割线----------------------------------</b>
 
