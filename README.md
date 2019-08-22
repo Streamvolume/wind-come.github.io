@@ -165,6 +165,18 @@
 
 ![24](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file.png?raw=ture)
 
+![25](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/a.jpg?raw=ture)
+
+![26](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/aa.jpeg?raw=ture)
+
+![27](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/b.jpg?raw=ture)
+
+![28](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/d.jpeg?raw=ture)
+
+![29](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/c.jpeg?raw=ture)
+
+![30](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/e.jpeg?raw=ture)
+
 <b>--------------------------------分割线----------------------------------</b>
 
 <b><a name="guanggao">广告</a></b>
@@ -177,3 +189,6 @@
 <b><a name="liebiao">支持者列表</a></b>
 <a href="#mulu">回目录</a>
 <p>2019.8.22:PASSIONE贡献24张可爱小马图片,感谢!</p>
+<p>2019.8.22:石竹贡献12张精选图,感谢!</p>
+<p>2019.8.22:今年刚入教的brony贡献15张精选图,感谢!</p>
+<p>2019.8.22:匿名贡献10张鬼畜图,感谢!</p>
