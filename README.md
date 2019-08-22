@@ -11,8 +11,9 @@
 <p>3.可爱小马</p>
 <a href="#xiaoma">跳转</a>
 
-<p>ps:网页底部有一些小信息,可以关注一下</p>
-<a href="#guanggao">跳转</a>
+<p>ps:网页底部有周边信息和支持者列表</p>
+<a href="#guanggao">广告</a>
+<a href="#liebiao">支持者列表</a>
 
 <b>公告栏</b>
 <p>公告:旧的小马同城会解散了，新的同城会:866756418QQ群，欢迎老群员和新人(自发)</p>
@@ -115,6 +116,54 @@
 
 ![cts](https://github.com/wind-come/wind-come.github.io/blob/master/image/cts.jpg?raw=ture)
 
+![1](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-1.png?raw=ture)
+
+![2](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-12.png?raw=ture)
+
+![3](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-14.png?raw=ture)
+
+![4](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-15.png?raw=ture)
+
+![5](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-18.png?raw=ture)
+
+![6](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-2.png?raw=ture)
+
+![7](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-21.png?raw=ture)
+
+![8](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-22.png?raw=ture)
+
+![9](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-23.png?raw=ture)
+
+![10](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-24.png?raw=ture)
+
+![11](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-26.png?raw=ture)
+
+![12](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-28.png?raw=ture)
+
+![13](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-29.png?raw=ture)
+
+![14](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-30.png?raw=ture)
+
+![15](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-32.png?raw=ture)
+
+![16](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-33.png?raw=ture)
+
+![17](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-35.png?raw=ture)
+
+![18](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-37.png?raw=ture)
+
+![19](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-38.png?raw=ture)
+
+![20](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-41.png?raw=ture)
+
+![21](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-46.png?raw=ture)
+
+![22](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-7.png?raw=ture)
+
+![23](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file-8.png?raw=ture)
+
+![24](https://github.com/wind-come/wind-come.github.io/blob/master/image/cpony/file.png?raw=ture)
+
 <p>--------------------------------------分割线--------------------------------------------</p>
 
 <b><a name="guanggao">广告</a></b>
@@ -122,3 +171,6 @@
 
 <b>广告:小马m6或者oc定制扇准备售卖,详情请加860817315,QQ群</b>
 
+<b><a name="liebiao">支持者列表</a></b>
+<a href="#mulu">回目录</a>
+<p>2019.8.22:PASSLONE贡献24张可爱小马图片,感谢!</p>
