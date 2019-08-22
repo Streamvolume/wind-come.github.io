@@ -1,11 +1,12 @@
 # 欢迎光临!
 <p>这里是咏冬风的多媒体站,网页初期正在完善,想要加图片或者专区请告诉我,QQ2873485461</p>
 <b>小马专区</b>
-<b><a name="mulu">目录</a></b>
+<b>建议去精品区看看哦</b>
+<b><a name="mulu">目录</a></b>                                        
 <p>1.小马壁纸</p>
 <a href="#bizhi">跳转</a>
 
-<p>2.马国女孩</p>
+ <p>2.马国女孩</p>
 <a href="#maguo">跳转</a>
 
 <p>3.可爱小马</p>
@@ -22,10 +23,12 @@
 
 <a href="#liebiao">支持者列表</a>
 
+<b>--------------------------分割线-----------------------------------</b>
+
 <b>公告栏</b>
 
-<b>通告:本站已经把小马壁纸增多(67张)并增加分辨率,马国女孩与可爱小马已经增加(约15张左右),新增鬼畜区,</b>
-<b>精品区正在施工</b>
+<b>通告:本站已经把小马壁纸增多(67张)并增加分辨率,马国女孩与可爱小马已经增加,新增鬼畜区,</b>
+<b>精品区正式开启(89张)</b>
 <p>公告:旧的小马同城会解散了，新的同城会:866756418QQ群，欢迎老群员和新人(自发)</p>
 
 <b>--------------------------分割线-----------------------------------</b>
@@ -131,6 +134,8 @@
 ![zhi](https://github.com/wind-come/wind-come.github.io/blob/master/image/bizhiget/48.jpg?raw=ture)
 
 ![zhi](https://github.com/wind-come/wind-come.github.io/blob/master/image/bizhiget/49.jpg?raw=ture)
+
+<a href="#mulu">回目录</a>
 
 ![zhi](https://github.com/wind-come/wind-come.github.io/blob/master/image/bizhiget/50.jpg?raw=ture)
 
@@ -294,7 +299,7 @@
 
 <b>--------------------------------分割线----------------------------------</b>
 
-<p>审核过后的图</p>
+<p>审核过后的图,欢迎投稿!</p>
 <b><a name="guichu">鬼畜区</a></b>
 <a href="#mulu">回目录</a>
 
@@ -308,9 +313,188 @@
 
 <b>--------------------------------分割线----------------------------------</b>
 
-<p>正在施工</p>
 <b><a name="jingpin">精品区</a></b>
 <a href="#mulu">回目录</a>
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/111.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/222.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/333.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/444.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/555.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/666.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/777.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/888.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/999.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/1010.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/1111.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/1212.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/1313.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/1414.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/1515.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/1616.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/1717.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/1818.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/1919.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/2020.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/2121.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/2222.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/2323.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/2424.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/2525.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/2626.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/2727.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/2828.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/2929.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/3030.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/3131.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/3232.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/3333.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/3434.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/3535.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/3636.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/3737.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/3838.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/3939.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/4040.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/4141.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/4242.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/4343.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/4444.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/4545.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/4646.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/4747.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/4848.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/4949.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/5050.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/5151.jpg?raw=ture)
+
+<a href="#mulu">回目录</a>
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/5252.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/5353.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/5454.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/5555.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/5656.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/5757.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/5858.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/5959.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/6060.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/6161.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/6262.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/6363.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/6464.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/6565.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/6666.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/6767.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/6868.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/6969.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/7070.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/7171.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/7272.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/7373.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/7474.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/7575.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/7676.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/7777.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/7878.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/7979.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/8080.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/8181.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/8282.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/8383.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/8484.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/8585.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/8686.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/8787.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/8888.jpg?raw=ture)
+
+![j](https://github.com/wind-come/wind-come.github.io/blob/master/image/jingxuan/8989.jpg?raw=ture)
 
 <b>--------------------------------分割线----------------------------------</b>
 
